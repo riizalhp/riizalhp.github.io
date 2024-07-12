@@ -123,26 +123,23 @@ img {
 /* Font Lekton */
 
 @font-face {
-    font-family: "Lekton";
-    src: url("Cont._fonts/lekton/lekton-regular.ttf")
-      format("truetype");
-    font-weight: normal;
-    font-style: normal;
-  }
+  font-family: "Lekton";
+  src: url("Cont._fonts/lekton/lekton-regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
 @font-face {
-    font-family: "Lekton";
-    src: url("Cont._fonts/lekton/lekton-italic.ttf")
-      format("truetype");
-    font-weight: normal;
-    font-style: italic;
-  }
+  font-family: "Lekton";
+  src: url("Cont._fonts/lekton/lekton-italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
 @font-face {
-    font-family: "Lekton";
-    src: url("Cont._fonts/lekton/lekton-bold.ttf")
-      format("truetype");
-    font-weight: bold;
-    font-style: normal;
-  }
+  font-family: "Lekton";
+  src: url("Cont._fonts/lekton/lekton-bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
 
 #verticalMenu {
   display: none;
@@ -2901,6 +2898,16 @@ html {
 
   #TwpTaNuiIi2uIEYr {
     display: block;
+  }
+
+  #JGOrF5AJ8jwMMASy {
+    transition: all 0.3s ease-in-out;
+  }
+
+  #JGOrF5AJ8jwMMASy:hover {
+    color: #ffcc00; /* Ganti dengan warna yang Anda inginkan */
+    transform: scale(1.1); /* Membesarkan ukuran button */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Menambahkan bayangan teks */
   }
 
   #xWXVAZH8C1PYosUN {
